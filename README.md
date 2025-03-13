@@ -5,7 +5,7 @@ I am a Biomedical Engineering student at Southern University of Science and Tech
 ## About Me
 
 - Currently studying at **[Southern University of Science and Technology]**
-- Looking forward to collaborate on **[H****uman-machine integration / Applied neurotechnology]**
+- Looking forward to collaborate on **[Human-machine integration / Applied neurotechnology]**
 - **How to reach me: **[12212653@mail.sustech.edu.cn]****
 - **Personal Pages: [https://adhjk.github.io/](https://adhjk.github.io/)**
 

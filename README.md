@@ -31,14 +31,14 @@ Signal processing and analyzing techniques (Experience in EEG signal acquisition
 
 ## 🏆 Awards
 
-- Grand Prize in the 2nd "Yanxing Cup" English Application Skills Competition                  			 *Nov. 2022*
-- Finalist Award for Competent Organizer in ” Returning to Hometown” in the Campus Committee          *Jan. 2023*
-- Third Prize in "Understanding Contemporary China" Interpretation Competition ("Guocai Cup")         *March 2023*
-- Second Prize in the National English Competition for College Students (NECCS)                 		  *Jun. 2023*
-- The Third Class of the Merit Student Scholarship                                           					  *Nov. 2024*
-- "BME Research Day" Outstanding Poster Award                                           					  *Nov. 2024*
-- Third Prize in the "Rixin" Training Camp Roadshow                                       					  *Dec. 2024*
-- Finalist project in 19th "Challenge Cup"                                                 							  *Feb. 2025*
+- Grand Prize in the 2nd "Yanxing Cup" English Application Skills Competition, *Nov. 2022*
+- Finalist Award for Competent Organizer in ” Returning to Hometown” in the Campus Committee, *Jan. 2023*
+- Third Prize in "Understanding Contemporary China" Interpretation Competition ("Guocai Cup"), *March 2023*
+- Second Prize in the National English Competition for College Students (NECCS), *Jun. 2023*
+- The Third Class of the Merit Student Scholarship, *Nov. 2024*
+- "BME Research Day" Outstanding Poster Award, *Nov. 2024*
+- Third Prize in the "Rixin" Training Camp Roadshow, *Dec. 2024*
+- Finalist project in 19th "Challenge Cup", *Feb. 2025*
 
 ## 💻 Experience
 

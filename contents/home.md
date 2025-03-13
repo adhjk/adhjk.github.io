@@ -1,4 +1,3 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
 I am a driven Biomedical Engineering student at Southern University of Science and Technology, my current work focuses on multimodal neural decoding, EEG signal analysis, I am passionate about exploring more on BCI technologies to restore autonomy for individuals with neurological disorders, and democratizing neurotechnology for real-world impact.
 

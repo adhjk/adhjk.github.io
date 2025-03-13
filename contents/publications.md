@@ -1,6 +1,1 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
-
+- Sitong Chen, Beiqianyi Li, Cuilin He, et al. ChineseEEG-2:An EEG Dataset for Multimodal Semantic Alignment and Neural Decoding during Reading and Listening[DS/OL]. V1. Science Data Bank, 2025[2025-03-13]. https://cstr.cn/31253.11.sciencedb.20611. CSTR:31253.11.sciencedb.20611.

@@ -29,6 +29,8 @@ Neural decoding / Brain-computer Interface（BCI）
 
 Signal processing and analyzing techniques (Experience in EEG signal acquisition.)
 
+Languages: English (CET-6: 624, CET-SET6 Level A, IELTS 7.5), Mandarin (Native)
+
 ## 🏆 Awards
 
 - Grand Prize in the 2nd "Yanxing Cup" English Application Skills Competition, *Nov. 2022*
@@ -48,5 +50,3 @@ Signal processing and analyzing techniques (Experience in EEG signal acquisition
 ## 📝 Publications
 
 - Sitong Chen, Beiqianyi Li, Cuilin He, et al. ChineseEEG-2:An EEG Dataset for Multimodal Semantic Alignment and Neural Decoding during Reading and Listening[DS/OL]. V1. Science Data Bank, 2025[2025-03-13]. https://cstr.cn/31253.11.sciencedb.20611. CSTR:31253.11.sciencedb.20611.
-
-<!-- Don't forget to add your username and links to the actual badge sources for visitor count and GitHub stats! -->

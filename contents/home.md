@@ -24,5 +24,5 @@ _"To pioneer BCI systems that empower paralyzed individuals to move, enable the 
 My goal is to become a university professor and BCI innovator, bridging cutting-edge research with accessible healthcare solutions. I am actively seeking collaborations and graduate opportunities to expand my work in cross-modal neural decoding and neurorehabilitation.
 
 #### Let’s Connect!
-[Publicated Work](https://www.scidb.cn/en/detail?dataSetId=bd666609b2464a42a0503f1eb96524cc) | [Full CV](https://github.com/adhjk/adhjk.github.io/blob/main/contents/Sitong.pdf)  | [Github Page](https://github.com/adhjk/adhjk.github.io/blob/main/README.md)
+[Publicated Work](https://www.scidb.cn/en/detail?dataSetId=bd666609b2464a42a0503f1eb96524cc) | [Full CV](https://github.com/adhjk/adhjk.github.io/blob/main/contents/Sitong_CV.pdf)  | [Github Page](https://github.com/adhjk/adhjk.github.io/blob/main/README.md)
 
